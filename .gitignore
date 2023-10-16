@@ -34,3 +34,4 @@ build/
 /.env
 /mvnw
 /mvnw.cmd
+/.mvn/
